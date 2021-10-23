@@ -1,4 +1,13 @@
-# flutter_application_1
+# Devfest21 Workshop
+
+### Using GetX 
+
+
+* use controller 
+* create services files 
+* know how to create file stracture 
+* use the snackbar with out the context 
+* use the onGenerateRoute to manage the route in the app
 
 A new Flutter project.
 
